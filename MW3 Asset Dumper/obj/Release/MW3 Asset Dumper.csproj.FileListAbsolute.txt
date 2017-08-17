@@ -1,0 +1,10 @@
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\bin\Release\MW3 Asset Dumper.exe.config
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\bin\Release\MW3 Asset Dumper.exe
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\bin\Release\MW3 Asset Dumper.pdb
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\bin\Release\Ionic.Zlib.dll
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Release\MW3 Asset Dumper.csprojResolveAssemblyReference.cache
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Release\MW3_Asset_Dumper.Form1.resources
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Release\MW3_Asset_Dumper.Properties.Resources.resources
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Release\MW3 Asset Dumper.csproj.GenerateResource.Cache
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Release\MW3 Asset Dumper.exe
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Release\MW3 Asset Dumper.pdb

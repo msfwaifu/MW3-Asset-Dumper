@@ -122,9 +122,8 @@ namespace MW3_Asset_Dumper
             for (int index = 0; (long)index < (long)count1; ++index)
             {
                 FileStream fileStream = new FileStream("Dump\\" + fixName(Memory.getName(index)) + ".bytecode", FileMode.Create, FileAccess.Write);
-                byte[] commpressedBuffer = Memory.ReadBytes(Memory.bytecodepointer(index), Memory.bytecodeSize(index));
-                byte[] uncommpressedBuffer = ZlibStream.UncompressBuffer(commpressedBuffer);
-                fileStream.Write(uncommpressedBuffer, 0, uncommpressedBuffer.Length);
+                byte[] Buffer = Memory.ReadBytes(Memory.bytecodepointer(index), Memory.bytecodeSize(index));
+                fileStream.Write(Buffer, 0, Buffer.Length);
                 fileStream.Close();
             }
         }

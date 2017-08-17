@@ -7,3 +7,12 @@ C:\Users\Luis_\OneDrive\Documents\Visual Studio 2015\Projects\MW3 Dumper\MW3 Dum
 C:\Users\Luis_\OneDrive\Documents\Visual Studio 2015\Projects\MW3 Dumper\MW3 Dumper\bin\Debug\Ionic.Zlib.dll
 C:\Users\Luis_\OneDrive\Documents\Visual Studio 2015\Projects\MW3 Dumper\MW3 Dumper\obj\Debug\MW3 Asset Dumper.exe
 C:\Users\Luis_\OneDrive\Documents\Visual Studio 2015\Projects\MW3 Dumper\MW3 Dumper\obj\Debug\MW3 Asset Dumper.pdb
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\bin\Debug\MW3 Asset Dumper.exe.config
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\bin\Debug\MW3 Asset Dumper.exe
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\bin\Debug\MW3 Asset Dumper.pdb
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\bin\Debug\Ionic.Zlib.dll
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Debug\MW3_Asset_Dumper.Form1.resources
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Debug\MW3_Asset_Dumper.Properties.Resources.resources
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Debug\MW3 Asset Dumper.csproj.GenerateResource.Cache
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Debug\MW3 Asset Dumper.exe
+C:\Users\Luis_\OneDrive\Documents\GitHub\MW3-Asset-Dumper\MW3 Asset Dumper\obj\Debug\MW3 Asset Dumper.pdb
